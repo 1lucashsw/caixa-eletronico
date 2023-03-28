@@ -1,18 +1,6 @@
-## Getting Started
+h1 Olá, este projeto foi elaborado na linguagem java!
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Caixa Eletrônico elaborado através de funções básicas do java funcionando através do terminal da IDE. 
+Possuindo um "Sistema de segurança" ficticio digitando a senha você é redirecionado para próxima etapa onde é possível realizar saques,
+tranferências e depósitos além de possuir um sistema de extrato sendo possível vizualizar as ações realizadas dentro do terminal!
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
